@@ -8,3 +8,5 @@
 2) wav_to_cn_text.py  将wav中文语音文件转化成文本
 
 3) record_voice.py 打开麦克风录制个人声音保存为wav文件
+   
+4) praat.py 提取声音特征 
